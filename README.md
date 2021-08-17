@@ -4,6 +4,7 @@ I'm from Espírito Santo, Brasil. I have a bachelor degree in Computer Science a
 ### My current portfolio repositories are listed bellow (currently updating, so more should appear soon):
 * [Museu Interativo de Bolso](https://github.com/JoaoMagnago/MuseuInterativo) - Node.JS, MongoDB
 * [InstagramUI](https://github.com/JoaoMagnago/instagramUI) - React.JS, React Native
+* [ResponsiveTwitterUI](https://github.com/JoaoMagnago/ResponsiveTwitterUI) - React.JS, Typescript
 
 ### You can also find me at:
 * LinkedIn: [João Magnago](https://www.linkedin.com/in/joaomagnago)
