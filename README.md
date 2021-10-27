@@ -5,6 +5,7 @@ I'm from Espírito Santo, Brasil. I have a bachelor degree in Computer Science a
 * [Museu Interativo de Bolso](https://github.com/JoaoMagnago/MuseuInterativo) - Node.JS, MongoDB
 * [InstagramUI](https://github.com/JoaoMagnago/instagramUI) - React.JS, React Native
 * [ResponsiveTwitterUI](https://github.com/JoaoMagnago/ResponsiveTwitterUI) - React.JS, Typescript
+* [TeslaUI](https://github.com/JoaoMagnago/teslaUI) - React>JS, Typescript
 
 ### You can also find me at:
 * LinkedIn: [João Magnago](https://www.linkedin.com/in/joaomagnago)
