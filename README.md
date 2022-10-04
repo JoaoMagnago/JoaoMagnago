@@ -9,4 +9,4 @@ I'm from Espírito Santo, Brasil. I have a bachelor degree in Computer Science a
 ### You can also find me at:
 * LinkedIn: **[João Magnago](https://www.linkedin.com/in/joaomagnago)**
 
-## My current portfolio repositories can be found in the pins bellow.
+### My current portfolio repositories can be found in the pins bellow.
