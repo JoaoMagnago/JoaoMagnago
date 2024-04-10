@@ -3,9 +3,11 @@ I'm from Espírito Santo, Brasil. I have a bachelor degree in Computer Science a
 
 ### I am currently learning (or learning more about):
 * Next.js
+* shadcn/ui
 * React
 * TypeScript
 * Tailwind
+* Vite
 
 ### You can also find me at:
 * LinkedIn: **[João Magnago](https://www.linkedin.com/in/joaomagnago)**
