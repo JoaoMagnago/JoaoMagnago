@@ -1,16 +1,30 @@
-# Hi, I’m João Magnago
-I'm from Espírito Santo, Brasil. I have a bachelor degree in Computer Science at Universidade Vila Velha (UVV). Front-end web developer at **Workmize**. I am specialized in **[Next.js](https://nextjs.org/)**, **[React](https://reactjs.org/)**, **[Typescript](https://www.typescriptlang.org/)**, **[Chakra UI](https://chakra-ui.com/)** and **[GraphQL](https://graphql.org/)** with **[Apollo](https://www.apollographql.com/)**.
+# Hi, I'm João Magnago
 
-### I am currently learning (or learning more about):
-* Next.js
-* shadcn/ui
-* React
-* TypeScript
-* Tailwind
-* Vite
+I'm a Front-end Web Developer at **Workmize** and a Computer Science graduate from **Universidade Vila Velha (UVV)**, based in Espírito Santo, Brazil.
 
-### You can also find me at:
-* LinkedIn: **[João Magnago](https://www.linkedin.com/in/joaomagnago)**
-* Twitter: **[@joaomdev](https://twitter.com/joaomdev)**
+I build web applications primarily with **React**, **TypeScript**, and modern frontend tools. I also have experience with **Next.js**, **GraphQL**, and **Apollo**.
 
-### My current portfolio repositories can be found in the pins bellow.
+### Technologies
+
+- React
+- TypeScript
+- Next.js
+- Vite
+- Tailwind CSS
+- Chakra UI
+- shadcn/ui
+- GraphQL
+- Apollo
+
+### Tools
+
+- Cursor
+- VsCode
+
+### Projects
+
+Take a look at my pinned repositories to explore some of my projects and work.
+
+### Contact
+
+- LinkedIn: [João Magnago](https://www.linkedin.com/in/joaomagnago)
